@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://masr-eoz.pages.dev/sitemap.xml

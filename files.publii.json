@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "c3dd74d3c999d868f2f03a77e8ccd7cf"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "aa97c97702519b1a84dec0909e89e5b6"
+    },
+    {
+        "path": "best-way-to-learn-quran-online-a-complete-guide-to-mastering-the-book-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-way-to-learn-quran-online-a-complete-guide-to-mastering-the-book-of-allah/index.html",
+        "type": "file",
+        "md5": "3ab52b5d05450525c628958fc4da3978"
+    },
+    {
+        "path": "best-way-to-learn-quran-online-discover-the-smart-path-to-mastering-the-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-way-to-learn-quran-online-discover-the-smart-path-to-mastering-the-quran/index.html",
+        "type": "file",
+        "md5": "069f98691fe48c9e31e0de36c98a9ab2"
+    },
+    {
+        "path": "best-way-to-learn-quran-online-transform-your-learning-into-a-spiritual-journey",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-way-to-learn-quran-online-transform-your-learning-into-a-spiritual-journey/index.html",
+        "type": "file",
+        "md5": "66b9aa43a18265442ae7dc50b80b412c"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "85af75637b17d575936f2c7ed5a3b95a"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "45c63f9ab2dcfa0964fe422c98f2e0dd"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "ed490dffd1a8bb78c3e5278af6f74f2f"
+    },
+    {
+        "path": "learn-quran-recitation-online-master-the-art-of-beautiful-recitation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-master-the-art-of-beautiful-recitation/index.html",
+        "type": "file",
+        "md5": "c4058455acce42634f72d493a9ae3c75"
+    },
+    {
+        "path": "learn-quran-recitation-online-perfect-your-voice-with-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-perfect-your-voice-with-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "d9ae9320694906d0a555277f6f359fd4"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/khyr-lklm.jpg",
+        "type": "file",
+        "md5": "c6c93fb45ddfb79ab3b3ca8b1dc9ae22"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-2xl.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-lg.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-md.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-sm.jpg",
+        "type": "file",
+        "md5": "db9e968e9816eeb84318829d501e4703"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-xl.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-xs.jpg",
+        "type": "file",
+        "md5": "da202ab00f2b905b2bc16314915f4155"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "168ce69d50042e72e8cb20aa606badea"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "12650a538284332aa78c4151d87b3f9d"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "f699ab6d53c12287a19d491a74a77878"
+    }
+]
